@@ -21,6 +21,3 @@ A Retrieval-Augmented Generation (RAG) system built with LangChain, ChromaDB, an
 * **LLM Engine:** Google Gemini (`gemini-3.8-flash`)
 * **Environment:** Google Colab
 
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/RAG-Powered-Legal-Knowledge-Base.git](https://github.com/YOUR_USERNAME/RAG-Powered-Legal-Knowledge-Base.git)
-   cd RAG-Powered-Legal-Knowledge-Base
